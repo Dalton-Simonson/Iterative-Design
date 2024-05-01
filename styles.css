@@ -221,6 +221,12 @@
     align-items: center;
 }
 
+#highfi-wireframes-mobile{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
 .screen_layout_sketches, .figmas{
     display: flex;
     margin-top: 5%;
